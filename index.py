@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug  8 12:45:29 2020
-
-@author: USUARIO
-"""
 
 
 from flask import Flask, render_template 
